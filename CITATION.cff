@@ -1,0 +1,14 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+
+title: "YUFE 2030 WP05 - Task 5.3 Fostering research collaborations - YUFE Libraries Subgroup"
+version: 0.1.0
+date-released: 2026-01-28
+
+authors:
+  - family-names: Shabaninejad
+    given-names: Shiva
+    orcid: https://orcid.org/0000-0003-4007-6600
+
+repository-code: https://github.com/yourusername/your-repo-name
+license: MIT
